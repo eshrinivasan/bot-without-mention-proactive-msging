@@ -2,6 +2,9 @@ Pre-req:
 1. Register a bot in azure(usual steps)
 2. Store the credentials in .env file
 
+Files used:
+nodejs/server/index.js
+nodejs/server/bot/proactiveBot.js
 
 Steps:
 
