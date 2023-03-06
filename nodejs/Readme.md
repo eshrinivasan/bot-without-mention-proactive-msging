@@ -3,8 +3,8 @@ Pre-req:
 2. Store the credentials in .env file
 
 Files used:
-nodejs/server/index.js
-nodejs/server/bot/proactiveBot.js
+1. nodejs/server/index.js
+2. nodejs/server/bot/proactiveBot.js
 
 Steps:
 
